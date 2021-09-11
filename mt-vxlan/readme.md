@@ -7,7 +7,7 @@
   Default username and password of MikroTik images is admin:admin
 </p>
     
-    <p> You will need to add IP addresses to VPCs</p>
+<p> You will need to add IP addresses to VPCs</p>
 
 ## Configuration for Site-1
 ```
