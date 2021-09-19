@@ -1,8 +1,5 @@
 # BGP Introduction (comparison between MikroTik RouterOS v6.x and V7.x
-<p>GNS3 project dump file is included in this folder you can load this on your GNS3 to test it.<br>
-GNS3 version used is 2.2.23<br>
-MikroTik CHR version used is 6.45.8 and 7.1rc2<br>
-Default username and password of MikroTik images is admin:admin</p>
+<p>MikroTik CHR version used are 6.45.8 and 7.1rc2</p>
 
 ### Configuration for RouterOS v6.x 
 ```
