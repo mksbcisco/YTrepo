@@ -46,7 +46,7 @@ DATA - Data to be added to the router. This data needs to be in JSON format, so 
 # sample PATCH requests:
 '''
 requests.patch(url, auth=HTTPBasicAuth(username,password), verify=False, data=DATA)
-url - End-point URL, URL where information you need to patch, this will include the object ID also. This information can be retrieved from GET requests e.g. 
+url - End-point URL, URL where information you need to patch, this will include the object ID also. Object ID can be retrieved from GET requests e.g. 
     https://router/rest/interface/vlan/*10: Patch a VLAN interface with object ID '*10'
     https://router/rest/ip/address/*D: Patch IP address with object ID '*D'
 username - Username of the router 
@@ -63,7 +63,7 @@ DATA - Data to be updated on the router. This data needs to be in JSON format, s
 # sample DELETE requests:
 '''
 requests.delete(url, auth=HTTPBasicAuth(username,password), verify=False)
-url - End-point URL, URL where object you need to delete, this will include the object ID also. This information can be retrieved from GET requests e.g. 
+url - End-point URL, URL where object you need to delete, this will include the object ID also. Object ID can be retrieved from GET requests e.g. 
     https://router/rest/interface/vlan/*10: Deletes the VLAN interface with object ID '*10'
     https://router/rest/ip/address/*D: Deletes IP address with object ID '*D'
 username - Username of the router 
