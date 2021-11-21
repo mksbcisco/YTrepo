@@ -1,6 +1,7 @@
-Readme
-Problem Statement
-1. All devices are not on explore Packet Tracer and switch on all the devices
+# Readme
+
+## Problem Statement
+1. All devices are not on, explore Packet Tracer and switch on all the devices
 2. Student – 1 and Teacher -1, refer to network on the left side and we need to pass VLANs for the same from the server to the Access Switch, such that Students get port 1-5 and Teachers get port 6-10. Student -1 have VLAN 11, Teacher-1 have VLAN 12
 3. Same network as above for 2nd building only change will be Student 2 to get VLAN 21 and Teacher 2 to get VLAN 22
 4. If all tasks are done correctly the servers and Student’s device will get IP address from range 192.168.xy.0/24 where xy is VLAN ID.
