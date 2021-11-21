@@ -11,3 +11,13 @@ Note: provision for one phone in each building must be done. We have only 2 phon
 
 [VLAN_practice lab.pkt](https://github.com/mksbcisco/YTrepo/blob/main/CCNA/VLAN_practice%20lab.pkt) is the un-configured file and the [VLAN_practice lab_execute.pkt](https://github.com/mksbcisco/YTrepo/blob/main/CCNA/VLAN_practice%20lab_execute.pkt) is the solution file 
 
+### For Problems related to Voice VLAN
+You may have to execute follwing configuration in 2811 Router 
+```
+ephone 1
+ mac-address 00D0.BA14.8E2C (change this mac-address, use of your phone in Packet Tracer)
+ button 1:2 (the number after : will be the extension used by above mentioned mac-address)
+ephone 2
+ mac-address 00D0.FF96.4E13 (change this mac-address, use of your phone in Packert Tracer)
+ button 1:1 (the number after : will be the extension used by above mentioned mac-address)
+ ```
