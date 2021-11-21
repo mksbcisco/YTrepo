@@ -9,3 +9,5 @@
 6. Administrator on both the building will have common VLAN 100 and will have to be connected to the Phones in the network. They will access ports 11-15 only. Once the phones are connected properly to the network, they should get IP address and a number with which they can dial each other.
 Note: provision for one phone in each building must be done. We have only 2 phones configured in our router. 
 
+VLAN_practice lab.pkt is the un-configured file and the VLAN_practice lab_execute.pkt is the solution file 
+
