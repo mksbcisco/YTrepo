@@ -3,6 +3,9 @@
 RouterOS - v6.45.8 LTS </br>
 GNS3 - v2.2.24
 
+MT-SR.gns3project - Without base image and snapshot
+MT-SR-with_image.gns3project - With base image and snapshot
+
 #### Router 1
 ```
 /interface ethernet
