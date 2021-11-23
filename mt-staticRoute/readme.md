@@ -3,8 +3,8 @@
 RouterOS - v6.45.8 LTS </br>
 GNS3 - v2.2.24
 
-MT-SR.gns3project - Without base image and snapshot
-MT-SR-with_image.gns3project - With base image and snapshot
+[MT-SR.gns3project](https://github.com/mksbcisco/YTrepo/blob/main/mt-staticRoute/MT-SR.gns3project) - Without base image and snapshot<br/>
+[MT-SR-with_image.rar](https://github.com/mksbcisco/YTrepo/blob/main/mt-staticRoute/MT-SR-with_image.rar) - With base image and snapshot(File compressed due to GitHub Limits)
 
 #### Router 1
 ```
