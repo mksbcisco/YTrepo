@@ -7,5 +7,5 @@ YouTube videos configuration repos
 |mt-automate| https://www.youtube.com/watch?v=KjKN0oDD90E |
 | mt-bgpv67 | https://www.youtube.com/watch?v=elhj-1n-DD4 | 
 | mt-vxlan | https://www.youtube.com/watch?v=e3sy6vz64FA |
-| CCNA | https://www.youtube.com/watch?v=hynp1r8YtXk |
+| CCNA-VLAN | https://www.youtube.com/watch?v=hynp1r8YtXk |
 
