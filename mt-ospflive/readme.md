@@ -1,6 +1,6 @@
-# ReadMe
+# README
 
-This repository for OSPF live training </br>
+This repository for MikroTik OSPF live training on 17/12/2021</br>
 GNS3 v2.2.24</br>
 RouterOS v6.45.8 </br>
 Network Diagram is attached. gns3project file is attached. The attached file has all the IP addresses on the Routers configured.
