@@ -9,5 +9,5 @@ YouTube videos configuration repos
 |[Network Automation using Python(Paramiko Module) on MikroTik](https://github.com/mksbcisco/YTrepo/tree/main/mt-automate-netmiko)| https://www.youtube.com/watch?v=iKmny3v1tb8 |
 | [BGP Fundamentals (MikroTik v6 and v7 Configuration)](https://github.com/mksbcisco/YTrepo/tree/main/mt-bgpv67) | https://www.youtube.com/watch?v=elhj-1n-DD4 | 
 | [VxLAN Basics & Configuration on MikroTik](https://github.com/mksbcisco/YTrepo/tree/main/mt-vxlan) | https://www.youtube.com/watch?v=e3sy6vz64FA |
-| [Free CCNA | VLAN Application Practical](https://github.com/mksbcisco/YTrepo/tree/main/CCNA-VLAN) | https://www.youtube.com/watch?v=hynp1r8YtXk |
+| [Free CCNA  VLAN Application Practical](https://github.com/mksbcisco/YTrepo/tree/main/CCNA-VLAN) | https://www.youtube.com/watch?v=hynp1r8YtXk |
 
