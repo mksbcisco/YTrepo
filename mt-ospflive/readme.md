@@ -2,7 +2,8 @@
 
 This repository for OSPF live training </br>
 GNS3 v2.2.24</br>
-RouterOS v6.45.8 
+RouterOS v6.45.8 </br>
+Network Diagram is attached. gns3project file is attached. The attached file has all the IP addresses on the Routers configured.
 
 
 
