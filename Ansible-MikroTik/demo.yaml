@@ -1,0 +1,25 @@
+---
+- name: using a REST API
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - debug:
+        msg: "LET's AUTOMATE"
+
+    - name: Add a bridge interface to the Router and assign it an IP address
+      uri:
+        url: "{{item.url}}"
+        method: PUT
+        url_username: ansible
+        url_password: ansible123
+        force_basic_auth: yes
+        validate_certs: false
+        body_format: json
+        body: "{{item.body}}"
+        status_code: 201
+      register: results
+      loop:
+        - {url: 'https://103.54.222.93/rest/interface/bridge', body: '{"name":"ansible_bridge"}' }
+        - {url: 'https://103.54.222.93/rest/ip/address', body: '{"address":"5.5.5.5","interface":"ansible_bridge"}'}
+    - debug:
+       var: results
