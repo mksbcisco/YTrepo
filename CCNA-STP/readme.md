@@ -1,11 +1,12 @@
 # Read Me
+This puzzle is for learning purpose only and not an actual question that may or may not come in Cisco Exam. You may do exercise on this as per your knowledge and understanding of the STP. The Author does not take any responsibility.
 
 ## Switch Facts 
 
 ### Switch 1 Facts
 
 ```
-- VLAN 1 Bridge ID: 32769:0020:1111:1111
+- VLAN 1 Bridge ID: 32769:1111:1111:1111
 - Port F0/2 Cost: 8
 - Port F0/4 Cost: 8
 ```
@@ -27,7 +28,7 @@
 ### Switch 4 Facts 
 
 ```
-- VLAN 1 Bridge ID: 28763:0020:4444:4444
+- VLAN 1 Bridge ID: 28763:4444:4444:4444
 ```
 
 ## Rules
