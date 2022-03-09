@@ -4,31 +4,31 @@
 
 ### Switch 1 Facts
 
-`
+```
 - VLAN 1 Bridge ID: 32769:0020:1111:1111
 - Port F0/2 Cost: 8
 - Port F0/4 Cost: 8
-`
+```
 
 ### Switch 2 Facts 
 
-`
+```
 - Port F0/1 Cost: 4
 - Port F0/3 Cost: 19
-`
+```
 
 ### Switch 3 Facts 
 
-`
+```
 - Root Port: F0/1
 - Port Costs: All defaults
-`
+```
 
 ### Switch 4 Facts 
 
-`
+```
 - VLAN 1 Bridge ID: 28763:0020:4444:4444
-`
+```
 
 ## Rules
 
