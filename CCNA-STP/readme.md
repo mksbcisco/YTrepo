@@ -1,6 +1,10 @@
 # Read Me
 This puzzle is for learning purpose only and not an actual question that may or may not come in Cisco Exam. You may do exercise on this as per your knowledge and understanding of the STP. The Author does not take any responsibility.
 
+## The Puzzle
+
+![STP-Puzzle](stp.jpg)
+
 ## Switch Facts 
 
 ### Switch 1 Facts
