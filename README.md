@@ -12,3 +12,4 @@ YouTube videos configuration repos
 |[Free CCNA  VLAN Application Practical](https://github.com/mksbcisco/YTrepo/tree/main/CCNA-VLAN) | https://www.youtube.com/watch?v=hynp1r8YtXk |
 |[Network Automation using Ansible On MikroTik RouterOS v7.x REST API ](https://github.com/mksbcisco/YTrepo/tree/main/Ansible-MikroTik) | https://youtu.be/tgprt9eNbn8 |
 |[iBGP Explained BGP Fundamentals Part 2 MikroTik RouterOS v7](https://github.com/mksbcisco/YTrepo/tree/main/iBGPv7) | https://www.youtube.com/watch?v=W7aR-AHDSgk |
+|[iBGP Explained Route Reflector BGP Fundamentals Part 3 MikroTik RouterOS v7](https://github.com/mksbcisco/YTrepo/tree/main/iBGPv7)| |
